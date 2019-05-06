@@ -1,0 +1,3 @@
+mlagents-learn C:\Users\User\Desktop\UnityGames\LD44\Assets\Config\trainer_config.yaml --run-id=Sheep --train
+
+tensorboard --logdir=summaries

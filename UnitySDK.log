@@ -1,0 +1,1433 @@
+4/27/2019 4:20:34 PM
+ 
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Sheep and brain sheepLearningBrain. Was Expecting 1 but received 13. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:597)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1038)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+4/27/2019 4:21:30 PM
+ 
+4/27/2019 4:35:36 PM
+ 
+4/27/2019 4:54:02 PM
+ 
+4/27/2019 4:56:07 PM
+ 
+4/27/2019 4:57:32 PM
+ 
+4/27/2019 4:58:43 PM
+ 
+4/27/2019 4:59:40 PM
+ 
+4/27/2019 5:18:06 PM
+ 
+4/27/2019 5:20:54 PM
+ 
+4/27/2019 5:23:18 PM
+ 
+4/27/2019 5:37:16 PM
+ 
+4/27/2019 5:40:36 PM
+ 
+4/27/2019 5:41:20 PM
+ 
+4/27/2019 5:42:04 PM
+ 
+4/27/2019 5:55:34 PM
+ 
+4/27/2019 6:16:03 PM
+ 
+4/27/2019 6:42:12 PM
+ 
+4/27/2019 6:46:29 PM
+ 
+4/27/2019 6:49:22 PM
+ 
+4/27/2019 6:55:40 PM
+ 
+4/27/2019 6:56:30 PM
+ 
+4/27/2019 6:57:11 PM
+ 
+4/27/2019 6:59:43 PM
+ 
+4/27/2019 7:04:25 PM
+ 
+4/27/2019 7:09:21 PM
+ 
+4/27/2019 7:15:37 PM
+ 
+4/27/2019 7:16:24 PM
+ 
+4/27/2019 7:28:46 PM
+ 
+4/27/2019 7:51:36 PM
+ 
+4/27/2019 8:17:34 PM
+ 
+4/27/2019 8:54:32 PM
+ 
+4/27/2019 9:11:12 PM
+ 
+4/27/2019 9:11:39 PM
+ 
+4/27/2019 9:24:55 PM
+ 
+4/27/2019 9:25:31 PM
+ 
+4/27/2019 9:37:24 PM
+ 
+4/27/2019 10:01:47 PM
+ 
+4/28/2019 12:45:02 PM
+ 
+4/28/2019 2:58:19 PM
+ 
+4/28/2019 3:03:52 PM
+ 
+4/28/2019 3:07:58 PM
+ 
+Warning
+Assets\ML-Agents\Scripts\Academy.cs(119,13): warning CS0649: Field 'Academy.maxSteps' is never assigned to, and will always have its default value 0
+
+4/28/2019 3:34:49 PM
+ 
+4/28/2019 8:51:43 PM
+ 
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+SheepAgent.AgentAction (System.Single[] vectorAction, System.String textAction) (at Assets/Scripts/SheepAgent.cs:158)
+MLAgents.Agent.AgentAction (System.Single[] vectorAction, System.String textAction, MLAgents.CommunicatorObjects.CustomAction customAction) (at Assets/ML-Agents/Scripts/Agent.cs:866)
+MLAgents.Agent.AgentStep () (at Assets/ML-Agents/Scripts/Agent.cs:1068)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:632)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+4/28/2019 8:56:38 PM
+ 
+4/28/2019 10:23:02 PM
+ 
+4/28/2019 10:27:08 PM
+ 
+4/28/2019 10:28:07 PM
+ 
+4/28/2019 10:29:15 PM
+ 
+4/28/2019 10:30:35 PM
+ 
+4/28/2019 10:35:40 PM
+ 
+4/28/2019 10:40:41 PM
+ 
+4/28/2019 10:45:44 PM
+ 
+4/28/2019 10:58:39 PM
+ 
+4/28/2019 11:20:22 PM
+ 
+4/28/2019 11:28:06 PM
+ 
+4/28/2019 11:34:09 PM
+ 
+4/28/2019 11:38:25 PM
+ 
+4/28/2019 11:42:14 PM
+ 
+4/28/2019 11:47:22 PM
+ 
+4/28/2019 11:57:39 PM
+ 
+4/29/2019 12:01:16 AM
+ 
+4/29/2019 12:03:23 AM
+ 
+4/29/2019 12:06:02 AM
+ 
+4/29/2019 12:09:16 AM
+ 
+4/29/2019 12:22:25 AM
+ 
+4/29/2019 12:31:59 AM
+ 
+4/29/2019 12:40:34 AM
+ 
+4/29/2019 8:19:19 AM
+ 
+4/29/2019 8:21:40 AM
+ 
+4/29/2019 9:01:36 AM
+ 
+4/29/2019 9:10:39 AM
+ 
+4/29/2019 9:26:54 AM
+ 
+4/29/2019 10:12:55 AM
+ 
+4/29/2019 10:14:44 AM
+ 
+4/29/2019 10:50:45 AM
+ 
+4/29/2019 11:06:12 AM
+ 
+4/29/2019 11:07:00 AM
+ 
+4/29/2019 1:32:47 PM
+ 
+4/29/2019 1:44:30 PM
+ 
+4/29/2019 4:16:39 PM
+ 
+4/29/2019 4:19:06 PM
+ 
+4/29/2019 4:23:14 PM
+ 
+4/29/2019 4:44:04 PM
+ 
+4/29/2019 5:03:47 PM
+ 
